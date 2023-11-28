@@ -1,13 +1,13 @@
-SUPABASE_URL=<change-me>
-SUPABASE_SERVICE_KEY=<change-me>
-PG_DATABASE_URL=notimplementedyet
-OPENAI_API_KEY=<change-me>
+SUPABASE_URL=<https://lcxglempahlyosnjgfps.supabase.co> 
+SUPABASE_SERVICE_KEY=<eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxjeGdsZW1wYWhseW9zbmpnZnBzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDExNTcwODIsImV4cCI6MjAxNjczMzA4Mn0.gjQ7UdUz-1KOZTBtuQ_rp0KuTbWZ2GfTTcyI9tnRGyo> 
+PG_DATABASE_URL=notimplementedyet 
+OPENAI_API_KEY=<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 
 ANTHROPIC_API_KEY=null
-JWT_SECRET_KEY=<change-me>
+JWT_SECRET_KEY=<ET1davPGwVlf0IEokyzKPqDw30VJUBJs7FH/oclQjutfNZ6VoCN2lQ5/w1zQiBQh62hz8yKJp0vFwfDIWn725g==> 
 AUTHENTICATE=true
-GOOGLE_APPLICATION_CREDENTIALS=<change-me>
+GOOGLE_APPLICATION_CREDENTIALS=<change-me> 
 GOOGLE_CLOUD_PROJECT=<change-me>
-CELERY_BROKER_URL=redis://redis:6379/0
+CELERY_BROKER_URL=redis://redis:6379/0 
 CELEBRY_BROKER_QUEUE_NAME=quivr-preview.fifo
 
 
@@ -15,8 +15,8 @@ CELEBRY_BROKER_QUEUE_NAME=quivr-preview.fifo
 #RESEND
 RESEND_API_KEY=<change-me>
 RESEND_EMAIL_ADDRESS=onboarding@resend.dev
-RESEND_CONTACT_SALES_FROM=contact_sales@resend.dev
-RESEND_CONTACT_SALES_TO=<change-me>
+RESEND_CONTACT_SALES_FROM=contact_sales@resend.dev 
+RESEND_CONTACT_SALES_TO=<change-me> 
 
 CRAWL_DEPTH=1
 
