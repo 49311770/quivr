@@ -1,7 +1,7 @@
 SUPABASE_URL=<change-me>
 SUPABASE_SERVICE_KEY=<change-me>
 PG_DATABASE_URL=notimplementedyet
-OPENAI_API_KEY=<change-me>
+OPENAI_API_KEY=<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>
 ANTHROPIC_API_KEY=null
 JWT_SECRET_KEY=<change-me>
 AUTHENTICATE=true
